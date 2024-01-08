@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightcyan;
+}
+.contenitore{
+    text-align: center;
+    margin-top: 30px;
+    text-transform: uppercase;
+    border: 2px solid black;
+    padding: 20px 0px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+h1{
+    margin-bottom: 30px;
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+#testo{
+    margin-right: 50px;
+}
+button{
+    padding: 0px 10px;
+}
+.censura{
+    margin-top: 20px;
+}
